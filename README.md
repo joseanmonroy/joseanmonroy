@@ -7,11 +7,10 @@
 </p>
 
 ### 👨‍💻 Sobre mí
-Soy estudiante de **Ingeniería en Sistemas** en la [Facultad de Informática Mazatlán (UAS)](https://fimaz.uas.edu.mx/). Me apasiona la intersección entre el software y el hardware, desde el desarrollo de ERPs hasta la automatización con microcontroladores.
+Soy estudiante de **Ingeniería en Sistemas** en la [Facultad de Informática Mazatlán (UAS)](https://fimaz.uas.edu.mx/). Me apasiona la intersección entre el software y el hardware, desde el desarrollo de sistemas hasta la automatización con microcontroladores.
 
 - 🏫 **Facultad:** FIMAZ - Universidad Autónoma de Sinaloa.
-- 🔭 **Proyecto actual:** Desarrollo de un ERP personalizado para gestión de talleres con integración de IA.
-- ⚙️ **Hardware:** Entusiasta de la electrónica (Arduino, ESP32, ESP8266) y la mecánica de motos.
+- ⚙️ **Hardware:** Entusiasta de la electrónica (Arduino, ESP32, ESP8266) y la automatización.
 - 🎓 **Enfoque:** Actualmente explorando bases de datos SQL, sistemas auto-reparables y desarrollo de interfaces UX/UI.
 - 📍 **Ubicación:** Mazatlán, Sinaloa, México.
 
@@ -25,18 +24,13 @@ Soy estudiante de **Ingeniería en Sistemas** en la [Facultad de Informática Ma
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
 
-### 🚀 Proyectos Destacados
-- **ERP Workshop:** Sistema integral de gestión empresarial diseñado para optimizar flujos de trabajo en talleres.
-- **OrniDB:** Base de datos SQL especializada en el registro de especies ornitológicas (Proyecto Aves).
-- **UAS UI Redesign:** Rediseño estético y funcional del portal estudiantil de la UAS.
-
-### 🎮 Gaming & Community
-<p align="left">
+### 🏁 Pasiones e Intereses
+- 🌵 **Off-Road:** Fanático de la **Baja 1000** y la cultura del desierto.
+- 🏍️ **Motos:** Especial interés en las **motos retro japonesas** y su mecánica DIY.
+- 📸 **Fotografía Analógica:** Manejo de sistemas como la Minolta Maxxum SPxi y revelado de 35mm.
+- 🎮 **Gaming:** Jugador de TFT y League of Legends.
+  <br>
   <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" alt="Riot Games"/>
-</p>
-
-*   **TFT & League of Legends:** Jugador activo, enfocado en estrategia y competencia.
-*   **Otros intereses:** Fotografía analógica (Minolta Maxxum SPxi) y mantenimiento DIY de motocicletas.
 
 ---
 
@@ -53,9 +47,3 @@ Soy estudiante de **Ingeniería en Sistemas** en la [Facultad de Informática Ma
 </p>
 
 > **XMR Address:** `TU_DIRECCION_DE_MONERO_AQUI`
-
-<p align="center">
-  <a href="https://linkedin.com/in/jose-antonio-monroy-a0774a317" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
