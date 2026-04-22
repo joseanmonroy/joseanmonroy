@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinVerastegui/MartinVerastegui/master/Assets/HandWave.gif" width="35px"> ¡Hola, soy Josean Monroy!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4iajl/giphy.gif" width="35px"> ¡Hola, soy Josean Monroy!
 
 <p align="center">
   <a href="https://git.io/typing-svg">
