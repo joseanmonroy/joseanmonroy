@@ -41,6 +41,13 @@ Soy estudiante de **Ingeniería en Sistemas** en la [Facultad de Informática Ma
 
 ---
 
+### 📱 ¡Sígueme!
+<p align="left">
+  <a href="https://www.instagram.com/joseanmonroy/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
 ### ☕ Apoya mi trabajo
 <p align="left">
   <img src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white" alt="Monero"/>
